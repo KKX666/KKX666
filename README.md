@@ -1,16 +1,13 @@
-### Hi there 👋
+### KKXの简介
 
-<!--
-**KKX666/KKX666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻一个爱瞎折腾的KKX
 
-Here are some ideas to get you started:
+🙆‍♂️尽可能的帮助到你
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫邮箱：xiaoxingyun69@gmail.com
+
+✈TG：https://t.me/KKX666
+
+📖博客：https://aizheteng.cf   (如果访问不了的话说明我没钱买小鸡）🤭
+
+🍖公益TG频道：https://t.me/KKX999 （私人公益节点）
